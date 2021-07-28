@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bg-img{
+    background: #FFF9F4;
+
+}
+.f{
+    font-size:80px;
+    font-weight:700;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    ;
+}
+span{
+    color:#FA804C ;
+}
+.cl{
+    color: #FA804C;
+    font-weight: 700;
+}
+
